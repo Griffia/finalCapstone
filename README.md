@@ -10,7 +10,7 @@ Lowercase/Uppercase letters and digits are only changed; punctuation and special
 You can copy the code from Github using the download raw file.
 ![image](https://github.com/Griffia/finalCapstone/assets/100473677/0c737fda-2ff1-4988-8b7b-405377af6b0e)
 
-Or you can highlight the text within the editor and copy and paste.
+Or you can highlight the text within the editor and copy and paste or make use of the button seen in the screen shot below.
 
 ![image](https://github.com/Griffia/finalCapstone/assets/100473677/783c307e-bd6c-48a2-a706-1455830ba24f)
 
