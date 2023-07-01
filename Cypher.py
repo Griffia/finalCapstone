@@ -37,32 +37,13 @@ def cypher(text): #Function for a cypher that will replace each letter or number
 
         else:
             new_character_value = ascii_value 
-            # All character that do not meet any of the criteria above remain the same
+            # All characters that do not meet any of the criteria above remain the same
             new_string += chr(new_character_value)
 
     return new_string
 
-
-test1 = "Assign initial tasks, admin, 10 Oct 2019, 25 Oct 2019, No, Use taskManager.py to assign appropriate tasks to each team member"
-
-test2 = str("__________________________________________"
-"\nTask:               Assign initial tasks" 
-"\nAssigned to:        admin" 
-"\nDate assigned:      10 Oct 2019" 
-"\nDue date:           25 Oct 2019" 
-"\nTask complete?      No"
-"\nTask description:   Use taskManager.py to assign appropriate tasks to each team member"
-"\n__________________________________________")
-
-test3 = "Andrew Griffiths"
-
-test4 = "05114986371"
-
-test = input("Enter a character: ")
+test = input("Enter a sentence to encrypt: ")
 
 print(cypher(test))
-print(cypher(test1))
-print(cypher(test2))
-print(cypher(test3))
-print(cypher(test4))
+
     
