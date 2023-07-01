@@ -12,6 +12,9 @@ You can copy the code from Github using the download raw file.
 
 Or you can highlight the text within the editor and copy and paste.
 
+![image](https://github.com/Griffia/finalCapstone/assets/100473677/783c307e-bd6c-48a2-a706-1455830ba24f)
+
+
 
 
 # --Examples--
