@@ -20,7 +20,7 @@ Or you can highlight the text within the editor and copy and paste or make use o
 Open your IDE and create a new file and paste the code into your local file.
 Remember to save your file, before running the code.
 
-<br>
+<br>  <br/>
 **If you downloaded the raw file from GitHub**
 
 Open your IDE, find the location of the raw file and open the file.
