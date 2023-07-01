@@ -19,11 +19,15 @@ Or you can highlight the text within the editor and copy and paste or make use o
 **If you copied the code from GitHub**
 
 Open your IDE and create a new file and paste the code into your local file.
+
 Remember to save your file, before running the code.
+
 
 **If you downloaded the raw file from GitHub**
 
+
 Open your IDE, find the location of the raw file and open the file.
+
 Then run the code.
 
 The program will prompt you to enter a sentence to encrypt. 
