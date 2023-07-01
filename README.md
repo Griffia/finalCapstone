@@ -7,7 +7,7 @@ to the 15th letter/digit after the letter/digit you have used.
 Lowercase/Uppercase letters and digits are only changed; punctuation and special characters are left alone. 
 
 # --Installation--
-*This project requires an IDE (Integrated development environment) that can run Python Scripts.*
+/bThis project requires an IDE (Integrated development environment) that can run Python Scripts./b
 
 You can copy the code from Github using the download raw file.
 ![image](https://github.com/Griffia/finalCapstone/assets/100473677/0c737fda-2ff1-4988-8b7b-405377af6b0e)
