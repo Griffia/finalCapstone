@@ -43,7 +43,7 @@ Output of examples
 
 ![image](https://github.com/Griffia/finalCapstone/assets/100473677/039efe22-1f7e-46a4-94ea-0fd547f91d43)
 
-(Image shows that each letter/number has been replaced by the value 15th after the letter/number used.)
+(Image shows that each letter/number has been replaced by the 15th value after the letter/number used.)
 
 
 
