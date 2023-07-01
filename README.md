@@ -25,7 +25,7 @@ Remember to save your file, before running the code.
 <br>  <br/>
 **If you downloaded the raw file from GitHub**
 
-Open your IDE, find the location of the raw file and open the file.
+Open your IDE, and open the raw file within the IDE.
 
 Then run the code.
 
